@@ -15,7 +15,7 @@ WebGL incl. reference resolution 960x600
 
 ### Visuals: 
 <div>
-<img src = "./Screenshots/movingBall-cs-vgoette_screenshot.jpg" width = "500">
+<img src = "./Screenshots/movingBall-cs-vgoette_screenshot.JPG" width = "500">
 </div>
 
 ### Third party material: 
